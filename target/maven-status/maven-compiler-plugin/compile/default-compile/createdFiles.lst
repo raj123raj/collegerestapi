@@ -1,0 +1,3 @@
+com\college\college_RestAPI\config\AppConfig.class
+com\college\college_RestAPI\config\SpringMvcDispatcherServletInitializer.class
+com\college\college_RestAPI\controller\CollegeController.class
